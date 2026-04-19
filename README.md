@@ -1,12 +1,13 @@
 # kyriosmica-site
 
-**Vitrine publique interactive** de kyriosMICA — Institut de Recherche &
-Innovation en Bio-Informatique Systémique & Bio-Technologie Quantique.
+**Vitrine publique interactive** de kyriosMICA — Institut de Recherche en
+Bioinformatique Quantique · Gardienne et coordinatrice de la **TQIM-Davoh**
+(Théorie Quantique de l'Information Moléculaire de Davoh).
 
 > Matrice d'Intrication Coordonnée par les Amplitudes  
 > *Matrix of Intrication Coordinated by Amplitudes*
 
-Déployé sur **https://kyriosmica.com**.
+Déployé sur **https://kyriosmica.com** · Version actuelle : **v3.2** (Avril 2026)
 
 ---
 
